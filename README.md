@@ -141,7 +141,7 @@ Observe the DHCP traffic appearing in WireShark:
 <br />
 <p>
   Back in Wireshark, filter for DNS traffic only.
-</p>
+</p> 
 <p>
   From your Windows 10 VM within a command line, use nslookup to see what google.com and disney.com’s IP addresses are and observe the DNS traffic being shown in WireShark:
 </p>
