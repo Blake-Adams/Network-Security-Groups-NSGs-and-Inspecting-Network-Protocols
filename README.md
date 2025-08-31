@@ -10,7 +10,7 @@ In this tutorial, we will observe various network traffic to and from Azure Virt
 - Wireshark (Protocol Analyzer)
 
 <h2>Operating Systems Used </h2>
-
+  
 - Windows 10 (21H2)
 - Ubuntu Server 20.04
 
